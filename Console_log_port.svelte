@@ -13,7 +13,7 @@
 </script>
 
 <style>
-    input{
+       input{
 		background:rgb(248, 113, 24);
 		font-family: 'Courier New', Courier, monospace;
 		color: white;
